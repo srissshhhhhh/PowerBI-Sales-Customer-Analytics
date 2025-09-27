@@ -36,7 +36,10 @@ Data Storytelling (Turning KPIs into insights)
 
 🔹 Dashboard Preview
 
-(Insert screenshots or GIFs of your dashboard here)
+<img width="1133" height="640" alt="image" src="https://github.com/user-attachments/assets/ac5df44c-9886-4cb4-9712-015533500869" />
+<img width="1127" height="637" alt="image" src="https://github.com/user-attachments/assets/5a0c30ce-c59b-4c39-a33e-851236784b6b" />
+
+
 
 🔹 How to Use
 
